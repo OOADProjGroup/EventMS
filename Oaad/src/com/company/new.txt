@@ -1,0 +1,10 @@
+       Welcome To The Event Management System
+Planner 
+     Detail of Planner :
+ 	NAME : RIDA
+ 	AGE : 50
+ 	GENDER : FEMALE	
+	CONTACT : 12345678
+ 
+
+ 
